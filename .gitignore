@@ -4,3 +4,4 @@ geckodriver.log
 **/__pycache__
 *.pyc
 pyvenv.cfg
+db.sqlite3
