@@ -1,5 +1,5 @@
-"Lib/" 
-"Scripts/" 
-"geckodriver.log" 
-"__pycache__" 
-"*.pyc" 
+Lib/
+Scripts/
+geckodriver.log
+__pycache__
+*.pyc
